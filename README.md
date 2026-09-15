@@ -6,6 +6,16 @@ The platform combines **Large Language Models, Retrieval-Augmented Generation (R
 
 It runs locally using **Qwen 2.5 7B through Ollama**, uses **DuckDB** for structured analytics, **ChromaDB + Sentence Transformers** for semantic retrieval, and validates generated conclusions before presenting them to the user.
 
+
+It runs locally using **Qwen 2.5 7B through Ollama**, uses **DuckDB** for structured analytics, **ChromaDB + Sentence Transformers** for semantic retrieval, and validates generated conclusions before presenting them to the user.
+
+---
+
+## Demo
+
+![Multi-Agent Enterprise Intelligence System structured analytics workflow](docs/images/structured-analytics-demo.png)
+
+*Example structured analytics workflow showing agent routing, validated SQL results, and generated business insights.*
 ---
 
 ## Project Highlights
